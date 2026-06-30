@@ -1,6 +1,6 @@
 from persistencia import salvar_selecoes
 
-from utils import ler_inteiro, ler_texto, escolher_ordem, linha
+from utils import ler_inteiro, ler_texto, escolher_ordem
 
 
 def status(selecoes):
@@ -206,7 +206,7 @@ def filtrar_selecoes(selecoes):
 
     opcao = ler_inteiro("Escolha: ")
 
-    linha()
+    print("-" * 60)
 
     if opcao == 1:
 

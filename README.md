@@ -1,7 +1,7 @@
 # Copa-manager
 ## Atividade avaliativa do professor
 
-O arquivo main.py é o “menu principal” do sistema. Ele carrega os dados, mostra um menu ao usuário, recebe a opção escolhida e chama as funções corretas dos outros módulos.
+O arquivo main.py é o “menu principal” do sistema. Pra executar o programa, execute o `main.py`
 
 ## 1) Cada import
 

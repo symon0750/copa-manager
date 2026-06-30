@@ -243,7 +243,7 @@ def listar_menu_selecoes(selecoes):
 
         imprimir_selecao(selecao)
 
-    linha()
+    print("-" * 60)
 
 
 def nomes_das_selecoes(selecoes):
